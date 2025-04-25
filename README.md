@@ -1,8 +1,37 @@
-# React + Vite
+FeastFinder 🍔
+A modern food delivery app built with React, Redux, and Tailwind CSS.
+🌟 Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Browse a diverse menu of food items across multiple categories
+Filter dishes by type (vegetarian/non-vegetarian)
+Search functionality to quickly find your favorite dishes
+Interactive cart management with real-time updates
+Responsive design for all device sizes
+Sleek and intuitive user interface with visual food type indicators
 
-Currently, two official plugins are available:
+🚀 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React.js: Frontend library for building the user interface
+Redux Toolkit: State management for the shopping cart 
+Tailwind CSS: Utility-first CSS framework for styling
+React Icons: For beautiful UI icons
+React-Toastify: For toast notifications
+
+FeastFinder 🍔
+A modern food delivery app built with React, Redux, and Tailwind CSS.
+🌟 Features
+
+Browse a diverse menu of food items across multiple categories
+Filter dishes by type (vegetarian/non-vegetarian)
+Search functionality to quickly find your favorite dishes
+Interactive cart management with real-time updates
+Responsive design for all device sizes
+Sleek and intuitive user interface with visual food type indicators
+
+🚀 Technologies Used
+
+React.js: Frontend library for building the user interface
+Redux Toolkit: State management for the shopping cart
+Tailwind CSS: Utility-first CSS framework for styling
+React Icons: For beautiful UI icons
+React-Toastify: For toast notifications
